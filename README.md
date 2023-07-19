@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HimajaGgithub
-- 👀 I’m interested in automation,robotics,AR/VR,3D-printing
+- 👀 I’m interested in Machine Learning, Data Analytics, Deep Learning, Android Development
 - 🌱 I’m currently learning Bachelor's of Engineering in Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
